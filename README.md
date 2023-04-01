@@ -2,13 +2,13 @@
 SMS booking System with Twilio and Node.js
 
 
-## Build a complete SMS booking system using Twilio and Node.Js that receives and send messages to create a new appointment &nbsp;
+## Built a complete SMS booking system using Twilio and Node.Js that receives and send messages to create a new appointment &nbsp;
 
 
 [Learn more about Twilio here](www.twilio.com/referral/eCplne)&nbsp;
 
 Twilio the world's leading cloud communications platform as a service (CPaaS) that enables you to develop SMS solutions, WhatsApp, Voice, Video, email, and even IoT. Twilio powers communications for more than 190,000 businesses and enables nearly 932 billion human interactions every year.
-This course will leverage some of those capabilities to create a fully functional SMS booking system. Here is how it works, the customer interested in booking an appointment send an SMS to a Twilio number; our Node.JS backend application understand the message and send an SMS back to the customer saying:
+This project will leverage some of those capabilities to create a fully functional SMS booking system. Here is how it works, the customer interested in booking an appointment send an SMS to a Twilio number; our Node.JS backend application understand the message and send an SMS back to the customer saying:
 
 Hi, do you want to book an appointment to:
 
